@@ -6,4 +6,5 @@ The dataset can be found here: https://www.kaggle.com/leonardopena/top50spotify2
 
 The results were predictable; more than 30% of the most popular genres contain the word "pop" and 2 of them are the most listened genres. As a little of my opinion, easy to listen genres for average music listeners are the most popular ones. As a rock lover this bugs me but #respect.
 
-
+[!genre-loudness-length](genre-loudness-length.png)
+[!genre-danceability](genre-danceability.png)
